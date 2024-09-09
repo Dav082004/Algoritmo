@@ -9,7 +9,8 @@ public class NotacionBigOLogaritmica {
         
         while(num>=1){
             System.out.println(""+num);
-            num=num/2;
+            num=num/2;            num=num/2;
+
         }
     }
 }
